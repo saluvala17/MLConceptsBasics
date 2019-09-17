@@ -1,0 +1,40 @@
+BIAS VARIANCE TRADEOFF
+WHY? we need bias variance tradeoff, to avoid over fitting and under fitting of the training dataset for our machine learning model to have less errors in predictions.
+To have consistencies in predictions for various similar datasets.
+Errors due to BIAS: Expectation of error in the predictions of a model. 
+
+Errors due to assumptions in the model. 
+Ex: Linear Regression.Assumption: the target has linear relationship with features. 
+High bias signifies under fitting.
+Bias is formally defined as the expectation of a predicted value minus actual value.which is error, so it is expectation of error.
+Errors due to variance:
+Variance is a measure of variability in the results predicted by our model.
+Variance quantifies the difference in prediction when we change thr dataset.
+
+How to get optimal bias and variance??
+DIMENSIONALITY REDUCTIONREGULARIZATION IN LINEAR MODELS/ANNUSING MIXTURE MODEL AND ENSEMBLE LEARNINGOPTIMAL VALUE OF K IN KNN.
+
+____
+
+
+HIGH BIAS: pays little attention to the training data, over simplified. It tends to have high error on the training dataset.Ex: low r squared values or large sum of the squared residual errors.
+
+HIGH VARIANCE: pays too much attention to the training data, and does not perform well with test data. OVER FITS.
+Higher error with test dataset.
+High variance means doing much better with traing set.
+
+
+
+
+
+Overfitting : It perfectly fits the training data, and error rate is very low, but with the test dataset it has the highest error rate.
+Under fitting:  error rate is high with both train and test dataset.
+HIGH BIAS : If error rate is high.LOW BIAS:   If error rate is low.
+UNDER FITTING = High bias + Low variance.OVER  FITTING = low bias + High variance.
+Best Model or BEST FIT = LOW BIAS + LOW VARIANCE.
+
+
+
+
+
+
