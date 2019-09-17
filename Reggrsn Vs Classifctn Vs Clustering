@@ -1,15 +1,43 @@
-1)Regression2)Classification 3)Cluster analysis
+1)Regression
+2)Classification 
+3)Cluster analysis
+
+
 1) Regression: 
-1)Linear Regression: in this, dependent variable is continuous and independent variable can be continuous or discrete and nature of line is linear. 2) Logistic regression : it is used to find the probability of the event success and event failure.We use this when the dependent variable is binary(0 or 1 / yes or No)
-3) Polynomial Regression4) stepwise regression5)Ridge regression 6)Lasso Regression 7) Elasticnet regression8) Gradient Boosting
+
+1.1 Linear Regression: in this, dependent variable is continuous and independent variable can be continuous or discrete and 
+nature of line is linear. 
+1.2 Logistic regression : it is used to find the probability of the event success and event failure.
+We use this when the dependent variable is binary(0 or 1 / yes or No)
+1.3 Polynomial Regression
+1.4 stepwise regression
+1.5cRidge regression 
+1.6 Lasso Regression 
+1.7 Elasticnet regression
+1.8 Gradient Boosting
 Source: comprehensive guide regression analytics vidya
+
 2) Classification:
-2.1 Logistic regression2.2 naives bayes 2.3 stochastic gradient descent2.4 K nearest neighbors2.5 decision trees 2.6 Random forest2.7 Support vector machine
+
+2.1 Logistic regression
+2.2 naives bayes 
+2.3 stochastic gradient descent
+2.4 K nearest neighbors
+2.5 decision trees 
+2.6 Random forest
+2.7 Support vector machine
 Source:Intellipat machine learning tutorial classification machine learning
 +
 
 3) Cluster Analysis: in this we have following algorithms. 
 
+3.1 Distribution based methods
+3.2 Centroid based methods
+3.3 Connectivity based methods
+3.4 Density models
+3.5 Subspace clustering
+
 Below site for more details:
 Analyticsvidya intoduction to clustering and different methods of clustering.
-3.1 Distribution based methods3.2 Centroid based methods3.3 Connectivity based methods3.4 Density models3.5 Subspace clustering
+
+
